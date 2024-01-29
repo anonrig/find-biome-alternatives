@@ -1,0 +1,16 @@
+{
+  "name": "find-biome-alternatives",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yagiz Nizipli <yagiz@nizipli.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@clack/prompts": "^0.7.0"
+  }
+}
