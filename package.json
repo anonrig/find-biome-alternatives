@@ -1,7 +1,7 @@
 {
   "name": "find-biome-alternatives",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Fetches the slowest 100 eslint rules in your path and gives you Biome equivalents",
   "type": "module",
   "main": "index.js",
   "scripts": {
